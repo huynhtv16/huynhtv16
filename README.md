@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 WELCOME TO MY PAGE
 
-<!--
-**huynhtv16/huynhtv16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Huynh Tran.  
+I’m a backend developer with strong interest in building scalable applications, REST APIs, and distributed systems.
 
-Here are some ideas to get you started:
+### 🔧 Technologies I work with:
+- 🧠 Python, Java , C#
+- 🛠️ MySQL, PostgreSQL, Oralce
+- ☁️ Docker, Git, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Facebook](https://facebook.com/yourprofile)
+- 📧 Email: huynhtv.it.vn@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huynhtv16&show_icons=true&theme=radical)
