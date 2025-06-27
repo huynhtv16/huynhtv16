@@ -9,7 +9,7 @@ I’m a backend developer with strong interest in building scalable applications
 - ☁️ Docker, Git, CI/CD
 
 ### 📫 How to reach me:
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/hu%E1%BB%B3nh-tr%E1%BA%A7n-671a69371/)
 - [Facebook](https://www.facebook.com/huynh.van.tran.283464)
 - 📧 Email: huynhtv.it.vn@gmail.com
 
