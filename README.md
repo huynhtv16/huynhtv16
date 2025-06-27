@@ -10,7 +10,7 @@ I’m a backend developer with strong interest in building scalable applications
 
 ### 📫 How to reach me:
 - [LinkedIn](https://linkedin.com/in/your-profile)
-- [Facebook](https://facebook.com/yourprofile)
+- [Facebook]([https://facebook.com/yourprofile](https://www.facebook.com/huynh.van.tran.283464))
 - 📧 Email: huynhtv.it.vn@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huynhtv16&show_icons=true&theme=radical)
