@@ -5,7 +5,7 @@ I’m a backend developer with strong interest in building scalable applications
 
 ### 🔧 Technologies I work with:
 - 🧠 Python, Java , C#
-- 🛠️ MySQL, PostgreSQL, Oralce
+- 🛠️ MySQL , Oralce , SQL Server , SQLite
 - ☁️ Docker, Git, CI/CD
 
 ### 📫 How to reach me:
