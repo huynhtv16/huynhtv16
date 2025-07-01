@@ -1,7 +1,7 @@
 # 👋 WELCOME TO MY PAGE
 
 My name is Huynh Tran.  
-I’m a backend developer with strong interest in building scalable applications, REST APIs, and distributed systems.
+I’m a Software Engineering with strong interest in building scalable applications, REST APIs, and distributed systems.
 
 ### 🔧 Technologies I work with:
 - 🧠 Python, Java , C#
