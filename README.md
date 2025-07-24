@@ -4,7 +4,7 @@ My name is Huynh Tran.
 I’m a Software Engineering with strong interest in building scalable applications, REST APIs, and distributed systems.
 
 ### 🔧 Technologies I work with:
-- 🧠 Python, Java , C#
+- 🧠 PHP, Python, Java , C#
 - 🛠️ MySQL , Oralce , SQL Server , SQLite
 - ☁️ Docker, Git, CI/CD
 
